@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.daws84.space
-USER_HOST: user.daws84.space
-CART_HOST: cart.daws84.space
-SHIPPING_HOST: shipping.daws84.space
-PAYMENT_HOST: payment.daws84.space
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws84.space
+USER_HOST: user.backend-{{ env }}.daws84.space
+CART_HOST: cart.backend-{{ env }}.daws84.space
+SHIPPING_HOST: shipping.backend-{{ env }}.daws84.space
+PAYMENT_HOST: payment.backend-{{ env }}.daws84.space
